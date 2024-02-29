@@ -7,7 +7,7 @@ Este repositório contém um código Node.js para envio de e-mails de forma efic
 - Suporte a anexos e HTML no corpo do e-mail
 - Documentação abrangente para facilitar a implementação
 
-# Como usar
+# Instruções de Uso
 - Clone este repositório.
 - Instale as dependências.
 - Crie um arquivo .env e configure suas credenciais de e-mail nesse arquivo.
@@ -27,7 +27,7 @@ npm install dotenv
 ```
 
 
-# INFO
+# Informações Adicionais
 Para que nossos sistemas consigam enviar e-mails utilizando uma conta do Google é necessário criar uma Senha de app.
 Crie uma Senha de Aplicativo no Gmail:
 
