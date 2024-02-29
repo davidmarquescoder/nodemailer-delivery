@@ -2,10 +2,8 @@
 Este repositório contém um código Node.js para envio de e-mails de forma eficiente e simplificada, utilizando a biblioteca Nodemailer. Este projeto oferece uma solução fácil de implementar para integrar funcionalidades de envio de e-mails em suas aplicações Node.js. Seja para notificações, confirmações ou qualquer outra comunicação por e-mail, o NodeMailer proporciona uma integração rápida e confiável com suporte a vários serviços de envio.
 
 # Recursos
-- Configuração flexível para diferentes serviços de e-mail
-- Exemplos e modelos prontos para utilização
-- Suporte a anexos e HTML no corpo do e-mail
-- Documentação abrangente para facilitar a implementação
+- Configuração flexível para diferentes serviços de e-mail.
+- Suporte a anexos e HTML no corpo do e-mail.
 
 # Instruções de Uso
 - Clone este repositório.
