@@ -12,22 +12,22 @@ Este repositório contém um código Node.js para envio de e-mails de forma efic
 - Instale as dependências.
 - Crie um arquivo .env e configure suas credenciais de e-mail nesse arquivo.
 
-## Dependências
+# Dependências
 - nodemailer | É uma das dependências mais utilizadas no mercado para envio de emails utilizando NodeJs, por isso vamos criar nosso projeto com ele.
+[Documentation - nodemailer](https://nodemailer.com/)
 ```shell
 npm install nodemailer
 ```
-[Documentation - nodemailer](https://nodemailer.com/)
 
 
 - dotenv | É utilizada para criarmos variáveis de ambiente como fator de segurança para não enviarmos informações sensíveis para o github.
+[Documentation - dotenv](https://www.npmjs.com/package/dotenv)
 ```shell
 npm install dotenv
 ```
-[Documentation - dotenv](https://www.npmjs.com/package/dotenv)
 
 
-## INFO
+# INFO
 Para que nossos sistemas consigam enviar e-mails utilizando uma conta do Google é necessário criar uma Senha de app.
 Crie uma Senha de Aplicativo no Gmail:
 
@@ -41,8 +41,8 @@ Acesse a página de Conta Google: [Google My Account](https://myaccount.google.c
 Atualize seu Código:
 - Substitua a senha no código pelo valor gerado como a "senha de aplicativo" no passo anterior.
 
-## Licença
+# Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md para obter detalhes.
 
-## Contribuições
+# Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma [issue](https://github.com/davidmarquescoder/Nodemailer-Delivery/issues) ou enviar uma [pull request](https://github.com/davidmarquescoder/Nodemailer-Delivery/pulls).
