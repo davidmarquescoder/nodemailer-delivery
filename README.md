@@ -9,19 +9,20 @@ Este repositório contém um código Node.js para envio de e-mails de forma efic
 
 # Como usar
 - Clone este repositório.
+- Instale as dependências.
 - Crie um arquivo .env e configure suas credenciais de e-mail nesse arquivo.
 
 ## Dependências
 - nodemailer | É uma das dependências mais utilizadas no mercado para envio de emails utilizando NodeJs, por isso vamos criar nosso projeto com ele.
 ```shell
-curl npm install nodemailer
+npm install nodemailer
 ```
 [Documentation - nodemailer](https://nodemailer.com/)
 
 
 - dotenv | É utilizada para criarmos variáveis de ambiente como fator de segurança para não enviarmos informações sensíveis para o github.
 ```shell
-curl npm install dotenv
+npm install dotenv
 ```
 [Documentation - dotenv](https://www.npmjs.com/package/dotenv)
 
